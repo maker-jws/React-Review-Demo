@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Black Couch",
+    "cost": 200,
+    "image": "https://images.globalindustrial.com/images/pd/ZB-LACEY-831-2-SOFA-BK-GG.jpg?t=1595410694000"
+  },
+  {
+    "title": "Blue Ikea couch",
+    "cost": 450,
+   "image": "https://media.graphcms.com/resize=w:1034,fit:crop/output=format:webp/compress/YOmWFkFkRUeMoIZzMadv"
+  },
+  {
+    "title": "Brown leather couch",
+    "cost": 1000,
+   "image": "https://media.graphcms.com/resize=w:1034,fit:crop/output=format:webp/compress/jfTo9cknQWKiEuHoo8gN"
+  },
+  {
+    "title": "Brown Pier1 Couch",
+    "cost": 1200,
+   "image": "https://raymourflanigan.scene7.com/is/image/RaymourandFlanigan/FW_RCHM_200964799_IS?qlt=60&wid=960"
+  },
+  {
+    "title": "Cactus themed couch",
+    "cost": 20,
+   "image": "https://i.pinimg.com/originals/41/85/42/41854278d6d418f4b36915ebd4177fe2.jpg"
+  },
+  {
+    "title": "Heather retro West Elm couch",
+    "cost": 240,
+   "image": "https://assets.weimgs.com/weimgs/ab/images/wcm/products/202014/0852/img97o.jpg"
+  },
+  {
+    "title": "Lavendar colored Ikea couch",
+    "cost": 40,
+   "image": "https://www.ikea.com/us/en/images/products/flottebo-sofa-bed-with-side-table__0713862_PE729829_S5.JPG?f=xxxs"
+  },
+  {
+    "title": "Orange retro couch",
+    "cost": 320,
+   "image": "https://i.pinimg.com/originals/ca/23/72/ca237223b96b6a61432cbc5ef1ccbce3.jpg"
+  },
+  {
+    "title": "White Ikea couch",
+    "cost": 100,
+   "image": "https://www.ikea.com/us/en/images/products/havsten-3-seat-sofa-in-outdoor__0729050_PE736636_S5.JPG?f=xxxs"
+  }
+]
