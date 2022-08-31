@@ -24,11 +24,18 @@ The review prompts can all be found inside [`lib/`](lib/). You are required to t
 
 ## Requirements
 
-| Exercise                                   | Skills                                       |
+| Deliverable Exercise                       | Skills                                       |
 | ------------------------------------------ | -------------------------------------------- |
 | [Craigslist](lib/craigslist/README.md)     | Components, Props                            |
 | [To Do](lib/todo/README.md)                | Components, State, Props, working with forms |
-| [Movie Viewer](lib/movie-viewer/README.md) | Components, Props, React Router              |
+
+<hr>
+
+| Hungry For More                            | Skills                                       |
+| ------------------------------------------ | -------------------------------------------- |
+| [Movie Viewer](lib/movie-viewer/README.md) | Components, Props, React Router              | 
+
+Note: We will be introducing [React Router]() next week, but feel free to work a head if you finish both the CraigsList and ToDo Exercise.  
 
 ## Plagiarism
 
