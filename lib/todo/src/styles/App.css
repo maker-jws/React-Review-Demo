@@ -46,7 +46,7 @@ form > input[type='submit']{
 .todo-card{
   border: 1px solid black;
   border-radius: 8px;
-  padding: 20px 32px; 
+  padding: 8px 32px; 
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -60,4 +60,11 @@ form > input[type='submit']{
 
 .strikethrough{
   text-decoration: line-through;
+}
+
+.todo-card > button {
+  border: 0;
+  background-color: transparent;
+  font-weight: bolder;
+  font-size: 18px;
 }

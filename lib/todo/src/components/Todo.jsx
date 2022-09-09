@@ -1,5 +1,4 @@
 export default function Todo({ todo, id, markComplete }) {
-  console.log(todo);
   function handleClick(e) {
     markComplete(id);
   }
