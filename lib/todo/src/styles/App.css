@@ -1,0 +1,63 @@
+*{
+  box-sizing: border-box;
+}
+
+.App{
+  padding: 20px;
+}
+.nav-form{
+  padding: 32px;
+  display: flex; 
+  justify-content: space-between;
+  align-items: center;;
+  background: black;
+  color: white;
+  gap: 32px;
+  border-radius: 8px;
+  margin-bottom: 40px;
+}
+
+.nav-form >h1{
+  padding: 0;
+  margin: 0;
+}
+.nav-form > form{
+  display: flex; 
+  gap: 32px;
+  flex: 1;
+  justify-content: stretch;
+  align-items: stretch;
+  /* padding: 20px 0; */
+}
+form > input[type='text']{
+  flex:1;
+  padding: 0 20px;
+  font-size: 18px;
+}
+form > input[type='submit']{
+  font-size: 24px;
+  background-color: white;
+  padding: 0 32px;
+  border: 0;
+  width: auto;
+  line-height: 40px;
+}
+
+.todo-card{
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 20px 32px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.todo-card  > p {
+  font-size: 18px;
+  font-weight: bolder;
+} 
+
+.strikethrough{
+  text-decoration: line-through;
+}
