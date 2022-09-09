@@ -1,0 +1,12 @@
+
+../images/black-couch.jp
+../images/blue-ikea.jp
+../images/brown-leather.jp
+../images/brown-pier1.jp
+../images/cactus-couch.jp
+../images/eggshell-leather.jp
+../images/heather-retro-west-elm.jp
+../images/hipster-couch.jp
+../images/lavendar-ikea.jp
+../images/orange-retro.jp
+../images/white-ikea.jpg
