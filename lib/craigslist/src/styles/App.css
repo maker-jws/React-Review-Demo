@@ -4,6 +4,10 @@ body {
   background-color: white;
 }
 
+h1, h2, h3, h4, h5 {
+  padding: 0;
+  margin: 0;
+}
 section {
   padding: 0 60px;
 }
@@ -78,7 +82,8 @@ section.container > h1 {
 }
 
 .result-image-header img {
-  width: 100%;
+  height: auto;
+  width: auto;
   object-fit: cover;
 }
 
@@ -89,10 +94,11 @@ section.container > h1 {
 }
 
 .card-body {
-  padding: 4px 16px;
+  padding: 16px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  /* align-items: flex-start; */
+  gap: 8px;
 }
 
 .card-body > h2 {
